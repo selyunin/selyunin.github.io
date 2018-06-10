@@ -5,39 +5,46 @@ Starting guide for the "LPC1769 development board with CMSIS DAP probe".
 
 I have started recently to familiarize myself with the 
 state-of-the-art (ARM) microcontrollers and the available
-development tools. 
+development tools. It was quite some years ago, since I had
+my last experience with `8051`-like and `AVR` microcontrollers.
 
 In this tutorial we will cover the basics for starting developing for
 the NXP LPC1769 microcontroller, in particularly when using
 the LPC1769 development board.
 
+## Things we need 
+
 In order to get started we basically need the following:
-* Hardware. 
+* **Hardware**. 
 	I am using the `DevBoard OM13085: LPCXpresso board for
-	LPC1769 with CMSIS DAP probe`, [link][1]
-* IDE. Although I think it is not a requirement to use an IDE 
+	LPC1769 with CMSIS DAP probe`, [link][1];
+* **IDE**. Although it is not a requirement to use an IDE 
   (i.e. one can just start with a cross-compiler tool-chain), 
-	but for ease of start it is definitely useful
-* Example code. It would take just too much time to develop
+	but for ease of start it is definitely useful;
+* **Example code**. It would take just too much time to develop
   all the functionality again from scratch, so we are going
 	to start with some examples and build on that one.
 
+## Resouces
 
-**Resources:**
+**Hardware:**
 * Official NXP web-page describing the development board: [link][1]
 * Board description from the digikey: [link][2]
 * Data sheet for the LPC1769 microcontroller: [link][3]
-* Example code: [link][4]
 
-**IDEs:**
-* LPCXpresso (older IDE, now NXP recommends to use the MCUXpresso).
-	I had also problems with the high DPI display, since underlying eclipse 
-	version does not support for such displays, and the icons were so
-	small that I would need a magnifying glass for that.
-* MCUXpresso
+**IDE:**
+* LPCXpresso, [link][6], (an older IDE, NXP recommends now to use the MCUXpresso).
+	I also had problems with this one with a high DPI display 
+	(e.g. when using a Lenovo Laptop), 
+	since the underlying eclipse version does not support such displays, 
+	the icons were so small that one would need a magnifying glass for that.
+* MCUXpresso IDE [link][5]
 * MDK ARM -- is a tool from [Keil](https://www.keil.com/download/product/), 
   for which `digikeys` 8k Euro, which is not an option for me.
 
+* Example code: [link][4]
+
+[//]: # "References:"
 
 [1]: https://www.nxp.com/support/developer-resources/hardware-development-tools/lpcxpresso-boards/lpcxpresso-board-for-lpc1769-with-cmsis-dap-probe:OM13085
 
@@ -47,3 +54,6 @@ In order to get started we basically need the following:
 
 [4]: https://www.nxp.com/support/developer-resources/software-development-tools/lpc-developer-resources-/lpcopen-libraries-and-examples/lpcopen-software-development-platform-lpc17xx:LPCOPEN-SOFTWARE-FOR-LPC17XX
 
+[5]: https://www.nxp.com/support/developer-resources/software-development-tools/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE
+
+[6]: https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/lpc-cortex-m-mcus/lpc1100-cortex-m0-plus-m0/lpcxpresso-ide-v8.2.2:LPCXPRESSO
