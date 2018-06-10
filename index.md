@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Dr. Konstantin Selyunin
-
 A software developer at Zenotrack (part of Bosch).
 
 
