@@ -1,5 +1,7 @@
-Starting guide for LPC1769 development board with CMSIS DAP probe
+Starting with LPC1769 development board
 ===
+
+Starting guide for LPC1769 development board with CMSIS DAP probe.
 
 I have started recently to familiarize myself with the 
 state-of-the-art (ARM) microcontrollers and the available tools.
