@@ -60,7 +60,12 @@ In order to get started we need the following:
 * George Pittarelli's `umd-lpc1769` [repo][8] is also great collection of 
 	example projects
 
-* 
+Understanding Lingo:
+
+* ARM Cortex
+
+* CMSIS-DAP
+
 
 
 [//]: # "References:"
