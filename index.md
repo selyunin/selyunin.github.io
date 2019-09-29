@@ -2,7 +2,11 @@
 layout: default
 ---
 
-A software developer at Zenotrack (part of Bosch).
+A software developer at Bosch.
+
+## Maths and data structures
+
+[Data structures and math](./maths_data_structures.md)
 
 
 ## NXP LPC MicroControllers
