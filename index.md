@@ -4,6 +4,8 @@ layout: default
 
 # Index
 
+Pages are listed below
+
 ## Maths and data structures
 
 [Data structures and math](./maths_data_structures.md)
