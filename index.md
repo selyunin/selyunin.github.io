@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Konstantin Selyunin github.io pages'
+title: 'Konstantin Selyunin pages'
 ---
 
 # Index
