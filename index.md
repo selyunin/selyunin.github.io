@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Pages index
+# Index
 
 ## Maths and data structures
 
