@@ -1,3 +1,26 @@
 theme: jekyll-theme-tactile
-title: Konstantin Selyunin's github io page
-description: Jet another github.io page
+
+name: Konstantin Selyunin
+
+description: Yet another github.io blog
+
+footer-links:
+  dribbble:
+  email: selyunin.k.v@gmail.com
+  facebook:
+  flickr:
+  github: selyunin
+  instagram:
+  linkedin: selyunin
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: # twitter account
+  stackoverflow: users/3801949/selyunin
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
