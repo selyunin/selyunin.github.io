@@ -5,7 +5,7 @@ title: Transformations
 
 # Scale
 
-Non-uniform scale can be defined as follows:
+Non-uniform scale $$S$$ for $$x$$, $$y$$, and $$z$$ axes can be defined as follows:
 
 $$
 \texttt{Scale}(s_x, s_y, s_z) = \begin{bmatrix} 
