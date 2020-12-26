@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: index
 ---
-
-A software developer at Bosch.
 
 ## Maths and data structures
 
@@ -15,6 +13,6 @@ A software developer at Bosch.
 
 [USB Communication Device Class](./usb_cdc.md)
 
-# Raspberry PI
+## Raspberry PI
 
 * [Paspberry PI](./raspberrypi.md)
