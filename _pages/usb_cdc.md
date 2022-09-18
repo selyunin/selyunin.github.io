@@ -1,3 +1,9 @@
+---
+layout: default
+title: 'Data structures'
+permalink: /usb-cdc/
+---
+
 USB Communication Device Class
 ==============================
 

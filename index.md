@@ -1,27 +1,32 @@
 ---
 layout: default
-title: 'Konstantin Selyunin pages'
+title: 'Konstantin Selyunin personal site'
 ---
 
 # Index
 
 Pages are listed below
 
+## Welcome post
+
+[Welcome post](2022-09-18-welcome-to-jekyll.markdown)
+
+
 ## Maths and data structures
 
-[Data structures and math](_pages/maths_data_structures.md)
+[Data structures and math](/data-structures/)
 
 
 ## NXP LPC MicroControllers
 
-[NXP LPC1769 Starting Guide](./nxp_lpc1769_starting_guide.md)
+[NXP LPC1769 Starting Guide](/nxp-lpc/)
 
-[USB Communication Device Class](_pages/usb_cdc.md)
+[USB Communication Device Class](/usb-cdc/)
 
 ## Raspberry PI
 
-* [Paspberry PI](_pages/raspberrypi.md)
+[Paspberry PI](/raspberry-pi/)
 
 ## Transformations
 
-* [Transformations](_pages/transformations.md)
+[Transformations](/transformations/)

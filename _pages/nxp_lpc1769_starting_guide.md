@@ -1,3 +1,9 @@
+---
+layout: default
+title: 'NXP Development'
+permalink: /nxp-lpc/
+---
+
 Starting with LPC1769 development board
 =======================================
 

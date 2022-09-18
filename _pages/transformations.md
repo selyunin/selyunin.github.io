@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Transformations
+permalink: /transformations/
 ---
 
 # Scale
@@ -15,4 +16,3 @@ s_x & 0   & 0   \\
 \end{bmatrix}
 $$
 
-This is also an example file showcasing the 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: 'Raspberry-PI'
+permalink: /raspberry-pi/
+---
+
 # Raspberry PI
 
 ARM Peripherals:

@@ -1,3 +1,9 @@
+---
+layout: default
+title: 'Data structures'
+permalink: /data-structures/
+---
+
 # Data structures
 
 * [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering)
