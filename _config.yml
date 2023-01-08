@@ -1,32 +1,46 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-researcher
 
-name: Konstantin Selyunin
+title: Dr. Konstantin Selyunin
 
-description: Yet another github.io blog
+description: Personal website of Dr. Konstantin Selyunin
 
-footer-links:
-  dribbble:
-  email: selyunin.k.v@gmail.com
-  facebook:
-  flickr:
-  github: selyunin
-  instagram:
-  linkedin: selyunin
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: # twitter account
-  stackoverflow: users/3801949/selyunin
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+markdown: kramdown
 
+footer: yes
+footer_url: "https://github.com/selyunin"
+footer_text: "2023, Dr. Konstantin Selyunin"
+
+favicon: yes
+favicon_location: /img/favicon.ico
 
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
 
 include:
   - _pages
 
 exclude:
   - README.md
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/about/"
+ - name: "Videos"
+   link: "/videos/"
+ - name: "Tech posts"
+   link: "/tech-posts/"
+ - name: "Publications"
+   link: "/publications/"
+ - name: "Running"
+   link: "/running/"
+ - name: "Music"
+   link: "/music/"
+ - name: "Contact"
+   link: "/contact/"
