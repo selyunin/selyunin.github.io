@@ -16,10 +16,10 @@ object recognition, embedded systems, automotive ECU development, and FPGAs.
 After finishing my PhD at 
 [**TU Vienna**](https://www.tuwien.at/)
 [**Cyber Physical Systems Group**](https://ti.tuwien.ac.at/), 
-I worked in 
-* a startup specializing in in-door localization (2018-19);
-* Robert Bosch automotive (2019-2021); and
-* a startup specializing in eye-tracking (2022-).
+I worked at
+* ZenoTrack specializing in in-door localization (2018-19);
+* Robert Bosch Automotive (2019-2021);
+* Viewpointsystem specializing in eye-tracking (2022-).
 
 ## Research Interests
 

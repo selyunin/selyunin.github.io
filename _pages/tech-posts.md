@@ -10,7 +10,7 @@ Tech posts
 
 ## Welcome post
 
-[Welcome post](2022-09-18-welcome-to-jekyll.markdown)
+[Welcome post](/2022-09-18-post/)
 
 
 ## Maths and data structures
