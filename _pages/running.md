@@ -7,6 +7,8 @@ permalink: /running/
 Running
 =======================================
 
+* [Vienna City Half-Marathon (Vienna, Austria) 2024](/pdf/selyunin_vienna_city_marathon_2024.pdf) <br/> (21.097km, 1375 rank, 01:44:23 netto time)
+
 * [Wien Energie Business-Run (Vienna, Austria) 2019](/pdf/selyunin_business_run_2019.pdf) <br/> (4.1km, 2228 rank, 00:18:09 netto time)
 
 * [Vienna City Half-Marathon (Vienna, Austria) 2019](/pdf/selyunin_vienna_city_marathon_2019.pdf) <br/> (21.097km, 2604 rank, 01:48:16 netto time)
