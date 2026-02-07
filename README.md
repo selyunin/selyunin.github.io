@@ -8,11 +8,3 @@ The page style is adapted from the [researcher](https://github.com/ankitsultana/
 To access the rendered version of the personal website, refer to:
 
 ### https://selyunin.github.io/
-
-
-## Maintainer
-
-[Dr. Konstantin Selyunin](https://selyunin.github.io/), 
-for suggestions / questions / comments 
-please contact: 
-selyunin [dot] k [dot] v [at] gmail [dot] com
