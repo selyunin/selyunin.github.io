@@ -1,11 +1,4 @@
----
-layout: default
-title: 'Running'
-permalink: /running/
----
-
-Running
-=======================================
+# Running
 
 * [Vienna Night Run (Vienna, Austria) 2025](/pdf/selyunin_vienna_night_run_2025.pdf) <br/> (5.0km, 1030 rank, 00:21:19 netto time)
 
