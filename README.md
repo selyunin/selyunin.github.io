@@ -1,10 +1,7 @@
-# Konstantin Selyunin: personal website
+# Konstantin's website
 
-The repository holds the code for the personal website built using [jekyll](https://jekyllrb.com/)
-and served as [github pages](https://pages.github.com/).
+Source code for the personal website.
 
-The page style is adapted from the [researcher](https://github.com/ankitsultana/researcher) theme.
-
-To access the rendered version of the personal website, refer to:
+See the website here:
 
 ### https://selyunin.github.io/
