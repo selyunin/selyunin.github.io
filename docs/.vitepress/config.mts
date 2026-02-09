@@ -32,7 +32,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/selyunin' }
+      { icon: 'github', link: 'https://github.com/selyunin' },
+      { icon: 'linkedin', link: 'https://github.com/selyunin' },
     ]
   },
   cleanUrls: true,
