@@ -12,13 +12,13 @@ hero:
   actions:
     - theme: brand
       text: Projects
-      link: /markdown-examples
+      link: /projects
     - theme: alt
+      text: Videos
+      link: /videos
+    - theme: brand
       text: Publications
       link: /publications
-    - theme: brand
-      text: Videos
-      link: /guide/what-is-vitepress
     - theme: alt
       text: Running
       link: /running
