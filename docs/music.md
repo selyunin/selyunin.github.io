@@ -1,11 +1,4 @@
----
-layout: default
-title: 'Music'
-permalink: /music/
----
-
-Music
-=======================================
+# Music
 
 
 Writing an arrangement or a sheet music for accordion has its own peculiarities, 
