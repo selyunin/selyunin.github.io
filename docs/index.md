@@ -15,7 +15,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: Publications
-      link: /api-examples
+      link: /publications
     - theme: brand
       text: Videos
       link: /guide/what-is-vitepress
