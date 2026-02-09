@@ -9,6 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Publications', link: '/publications' },
       { text: 'Running', link: '/running' }
     ],
 
@@ -18,8 +19,11 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-
         ]
+      },
+      {
+        text: 'Publications',
+        link: '/publications',
       },
       {
         text: 'Running',
@@ -30,5 +34,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/selyunin' }
     ]
-  }
+  },
+  cleanUrls: true,
 })
