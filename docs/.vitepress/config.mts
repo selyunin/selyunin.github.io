@@ -39,7 +39,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/selyunin' },
-      { icon: 'linkedin', link: 'https://github.com/selyunin' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/selyunin/' },
       { icon: 'stackoverflow', link: 'https://stackoverflow.com/users/3801949/selyunin' },
       { icon: 'lichess', link: 'https://lichess.org/@/kselyunin' },
     ],
