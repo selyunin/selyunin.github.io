@@ -1,5 +1,4 @@
-Publications
-=======================================
+# Publications
 
 * Konstantin Selyunin, Stefan Jaksic, Thang Nguyen, Christian Reidl, Udo Hafner,  Ezio Bartocci, Dejan Nickovic, and Radu Grosu.
   **Runtime Monitoring with Recovery of the SENT Communication Protocol.**
