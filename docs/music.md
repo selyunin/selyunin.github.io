@@ -11,6 +11,6 @@ I have created a github repository, which you can use as a starting point for ty
 
 * [https://github.com/selyunin/accordion_lilypond_sheets](https://github.com/selyunin/accordion_lilypond_sheets) 
  
-simple example is "Jingle Bells" by James Lord Pierpont: [sheet music](/docs/pdf/jingle_bells.pdf).
+"Jingle Bells" by James Lord Pierpont: [sheet music](/pdf/jingle_bells.pdf).
 
-Ongoing is an arrangement for accordion of Vivaldi's RV 93: [sheet music](/docs/pdf/vivaldi_rv_93.pdf)
+Vivaldi's RV 93: [sheet music](/pdf/vivaldi_rv_93.pdf)

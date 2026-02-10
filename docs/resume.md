@@ -1,1 +1,3 @@
-# Resume
+---
+layout: page
+---
