@@ -20,8 +20,9 @@ hero:
       text: Publications
       link: /publications
     - theme: alt
-      text: Running
-      link: /running
+      text: Resumé
+      link: /resume
+
 
 #features:
 #  - icon: 🛠️ 
