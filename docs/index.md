@@ -35,9 +35,9 @@ hero:
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-# Hi, I'm Konstantin Selyunin
+# Hi, I'm Konstantin 👋
 
-I am a tech person with genuine interest in software and how things work.
+I am a scientist, developer, and engineer with genuine interest in software and how things work.
 
 My main areas of expertise include: 
 * embedded systems, 
@@ -45,7 +45,8 @@ My main areas of expertise include:
 * eye-tracking,
 * camera, 
 * media formats,
-* communication protocols, and 
+* communication protocols, and
+* data pipelines,
 * the transformation of raw data to information.
 
-I previously worked with automotive ECU development, robotics, 3-D perception, and FPGAs.
+In the past I also worked with automotive ECU development, robotics, 3-D perception, and FPGAs.
