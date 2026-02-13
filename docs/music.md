@@ -1,6 +1,5 @@
 # Music
 
-
 Writing an arrangement or a sheet music for accordion has its own peculiarities, 
 especially when dealing with the left hand (bass). 
 
