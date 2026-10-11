@@ -45,7 +45,7 @@ My main areas of expertise include:
 * eye-tracking,
 * camera, 
 * media formats,
-* communication protocols, and
+* communication protocols,
 * data pipelines,
 * the transformation of raw data to information.
 
