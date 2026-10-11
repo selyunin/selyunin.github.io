@@ -89,52 +89,12 @@ title: Resumé
 </main>
 <section class="skills">
   <h2>Skills</h2>
-  <div class="skill-grid">
-    <div class="skill-card">
-      <h4>Programming</h4>
-      <ul class="bullets">
-        <li>rust</li>        
-        <li>python</li>        
-        <li>C/C++</li>
-        <li>VHDL</li>
-        <li>MATLAB / MathCad / R</li>
-        <li>javascript</li>
-      </ul>
-    </div>
-    <div class="skill-card">
-      <h4>Embedded</h4>
-      <ul class="bullets">
-        <li>Yocto / Embedded Linux</li>        
-        <li>ARM Cortex-M/R</li>
-        <li>Zynq / FPGA</li>
-        <li>STM, NXP</li>
-        <li>SystemC</li>
-        <li>AUTOSAR</li>
-      </ul>
-    </div>
-    <div class="skill-card">
-      <h4>Tooling &amp; CI</h4>
-      <ul class="bullets">
-        <li>Linux · Windows · Mac</li>
-        <li>AWS · sam, dynamodb, s3</li>
-        <li>CEF</li>
-        <li>CI · GitLab · GitHub</li>
-        <li>Artifactory</li>
-        <li>Vivado</li>
-      </ul>
-    </div>
-    <div class="skill-card">
-      <h4>ML &amp; Robotics</h4>
-      <ul class="bullets">
-        <li>TensorFlow</li>
-        <li>Keras</li>
-        <li>OpenCV</li>
-        <li>ROS</li>
-        <li>MoveIt</li>
-        <li>Kalman filters</li>
-      </ul>
-    </div>
-  </div>
+  <ul class="bullets">
+    <li><strong>Programming</strong> <span class="items"><span>rust</span><span>python</span><span>C/C++</span><span>VHDL</span><span>MATLAB / MathCad / R</span><span>javascript</span></span></li>
+    <li><strong>Embedded</strong> <span class="items"><span>Yocto / Embedded Linux</span><span>ARM Cortex-M/R</span><span>Zynq / FPGA</span><span>MCU · STM · NXP</span><span>SystemC</span><span>AUTOSAR</span></span></li>
+    <li><strong>Tooling &amp; CI</strong> <span class="items"><span>Linux · Windows · Mac</span><span>AWS · sam · dynamodb · s3</span><span>CEF</span><span>CI · GitLab · GitHub</span><span>Artifactory</span><span>Vivado</span></span></li>
+    <li><strong>ML &amp; Robotics</strong> <span class="items"><span>TensorFlow</span><span>Keras</span><span>OpenCV</span><span>ROS</span><span>MoveIt</span><span>Kalman filters</span></span></li>
+  </ul>
 </section>
 <section class="extras">
   <h2>Languages</h2>
@@ -157,9 +117,6 @@ title: Resumé
 </section>
 <section class="extras">
   <h2>Personal Interests</h2>
-  <div class="skill-card wide">
-    <p class="tags"><span>Running</span><span>Swimming</span><span>Biking</span><span>Chess</span><span>Accordion</span><span>3D</span></p>
-  </div>
   <ul class="bullets">
     <li><strong>Sports</strong> <span class="muted">· Running, Swimming, Biking, Chess</span></li>
     <li><strong>Music</strong> <span class="muted">· Accordion</span></li>
@@ -294,6 +251,23 @@ h3 .at::before { content: "@ "; opacity: 0.6; }
 .timeline ul li::marker,
 .bullets li::marker { color: var(--r-muted); }
 .muted { color: var(--r-muted); }
+.items { margin-left: 6px; }
+.items > span { white-space: nowrap; }
+.items > span + span::before {
+  content: "";
+  display: inline-block;
+  width: 2px;
+  height: 0.85em;
+  margin: 0 9px;
+  vertical-align: -0.05em;
+  background: var(--r-accent);
+  opacity: 0.55;
+}
+.resume { overflow-wrap: anywhere; }
+@media (max-width: 640px) {
+  .items { display: block; margin-left: 0; }
+  .items > span { white-space: normal; }
+}
 .thesis { margin: 8px 0 0; font-style: italic; }
 .note { margin: 4px 0 0; font-size: 13px; color: var(--r-muted); }
 
@@ -358,7 +332,6 @@ h4 {
   font-weight: 500;
 }
 
-.skill-card .bullets { margin: 0; }
 
 .foot {
   max-width: 1040px;
